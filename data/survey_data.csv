@@ -1,0 +1,5 @@
+user_id,survey_id,question_number,question_type,response_time_sec,answer,completed,survey_topic,device_type,timestamp
+1,101,1,multiple_choice,15,A,1,product_feedback,mobile,2024-01-15 10:30:00
+1,101,2,multiple_choice,12,B,1,product_feedback,mobile,2024-01-15 10:30:12
+2,101,1,multiple_choice,8,A,0,product_feedback,desktop,2024-01-15 11:15:00
+3,102,1,open_ended,25,"Good service",1,customer_satisfaction,desktop,2024-01-16 09:20:00
